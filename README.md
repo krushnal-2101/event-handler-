@@ -1,4 +1,6 @@
 # event-handler 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/61293e40-7f85-458a-8a0d-b8a9d9881fd2" />
+
 🎯 React Event Handlers Demo
 
 A simple React application demonstrating core event handling concepts such as onClick, onChange, onSubmit, passing arguments to event handlers, and conditional rendering.
